@@ -28,6 +28,9 @@ The objective of this project is to:
 - Customers with online security and tech support tend to stay longer.
 - Low tenure and high monthly charges are major churn contributors.
 
+## Power BI Dashboard
+![Power BI Dashboard](Dashboard/Summary_Dashboard.png)
+![Power BI Dashboard](Dashboard/Churn_Prediction_Page.png)
 
 
 
